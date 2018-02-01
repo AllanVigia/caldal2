@@ -448,7 +448,7 @@ header.masthead .intro-text .skills {
 }
 
 form .row:first-child .floating-label-form-group {
-    border-top: 1px solid #eeeeee;
+    border-top: 1px solid #ffffff;
 }
 
 footer {
@@ -556,8 +556,8 @@ fieldset[disabled] .btn-primary:hover {
 .btn-success {
     font-weight: 700;
     color: #ffffff;
-    border-color: #ce8b40;
-    background-color: #ce8b40;
+    border-color: #ffffff;
+    background-color: #ffffff;
 }
 
 .btn-success.focus,
@@ -630,6 +630,10 @@ fieldset[disabled] .btn-success:hover {
     border-radius: 100%;
 }
 
+.cor{
+    background-color: blue;
+}
+
 .btn.active,
 .btn:active,
 .btn:focus {
@@ -655,6 +659,10 @@ fieldset[disabled] .btn-success:hover {
     margin: 0 9% 15px;
 }
 
+.corzinha {
+    background-color: #ce8b40;
+    color: #ffffff;
+}
 
 
 /* Fim do meu CSS */
